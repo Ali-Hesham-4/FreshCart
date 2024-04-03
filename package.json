@@ -1,6 +1,6 @@
 {
   "name": "ecommerce",
-  "homePage": "./",
+  "homePage": "https://Ali-Hesham-4.github.io/FreshCart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
