@@ -1,3 +1,4 @@
+import React from "react"
 import { NewCategoiesContext } from '../../context/CategoiesContext';
 import { useContext } from 'react';
 
